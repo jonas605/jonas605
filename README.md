@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jonas605
 - 👀 I’m interested in Data Science and Artificial Intelligence
 - 🌱 I’m currently learning the basics of Computer Science
-- 💞️ I’m going to study buisiness informatics at Bosch 
+- 💞️ I’m studying buisiness informatics at Bosch 
 - ⚡ Fun fact: ...
 
 <!---
